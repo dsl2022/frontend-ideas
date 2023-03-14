@@ -1,0 +1,3 @@
+- the part of software that is interacted with by the user the most
+- the part that of software that is supposed to look the prettiest and more intuitive
+- this is more like a user interface which makes doing other actions easier
