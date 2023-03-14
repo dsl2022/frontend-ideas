@@ -1,0 +1,1 @@
+i think frontend development involves the basic set up of what a website looks like. i think it involves the color scheme and how words are displayed. i also think front end development involves how pictures and any pop ups work.
