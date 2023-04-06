@@ -1,5 +1,4 @@
-fork my repo
-
-1: You will create a branch, with your name, david_liang
-2: in your branch, you will create a new file (name of the file, david.md)
-3: you will list 3~5 ideas about what is frontend development
+* Frontend development is a software that specializes in creating and designing websites and web applications.
+* It uses HTMl, CSS, and JavaScript.
+* Frontend developers also use libraries and frameworks like React and Angular.
+* Frontend developers often collaborate with back end developers.
